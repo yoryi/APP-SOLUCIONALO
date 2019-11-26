@@ -13,6 +13,6 @@ donde podemos ver los datos en un Jtable, fue diseñada en adobe xd
 <br>
 
 Usa mysql y Mamp para el servidor
-<BR>Autor: jorginho Ojeda<BR>
-si usas esta app para ventas u apropiarte, sera sancionado.<BR>
-Licence. 2019
+<BR>**Autor:** jorginho Ojeda<BR>
+**si usas esta app para ventas u apropiarte, sera sancionado.<BR>**
+**Licence. 2019**
